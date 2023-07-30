@@ -1,0 +1,108 @@
+/*===========seção tegs========*/
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+hr {
+  background-color: #1b6b93;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 10px;
+  width: 10%;
+}
+
+h1 {
+  margin: 0 auto;
+  line-height: 2;
+  font-size: 5.625rem;
+  color: aqua;
+  font-family: "sacramento", cursive;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 1.5rem;
+  margin: 0 auto 0 auto;
+  color: aqua;
+}
+
+img {
+  margin-top: 0;
+  width: 10%;
+  margin: 0 auto 0 auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #150445;
+  font-family: "Merriweather", serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ba0909;
+}
+
+/*===========seção class========*/
+
+.container {
+  background-color: #1b6b93;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px auto;
+}
+
+.img-cerebro {
+  position: absolute;
+  right: 20%;
+  top: 10%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.code-img {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.descrition {
+  clear: left;
+}
+
+.whats {
+  border: none;
+  padding: 4px 10px 4px 10px;
+  outline: auto;
+  background-color: #738ee0;
+  text-decoration: none;
+  border-radius: 1px;
+}
+
+.bottom-container {
+  background-color: #1b6b93;
+  padding-top: 100px;
+}
+
+.marca-registrada {
+  font-size: 0.75rem;
+  color: white;
+  padding: 30px 0;
+}
